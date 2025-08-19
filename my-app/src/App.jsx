@@ -278,7 +278,7 @@ function App() {
                 value={email}
                 onChange={handleEmailChange}
                 placeholder="Email address"
-                className="flex-grow px-4 py-3 bg-black/70 border border-gray-600 rounded focus:outline-none focus:border-red-500 text-black md:text-lg"
+                className="text-[#fff] flex-grow px-4 py-3 bg-black/70 border border-gray-600 rounded focus:outline-none focus:border-red-500 md:text-lg"
                 required
               />
               <button 
